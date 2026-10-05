@@ -1,6 +1,8 @@
 # Terminal 3D Renderer
 
-<!-- Add a screenshot or GIF of your renderer here: ![Renderer Demo](demo.gif) -->
+
+https://github.com/user-attachments/assets/d2b9a561-ca6b-49d1-a31f-f1b0d7e2fa3b
+
 
 A simple ASCII 3D renderer written in C that displays rotating 3D models directly in your terminal.
 
