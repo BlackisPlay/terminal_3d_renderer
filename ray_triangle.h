@@ -1,6 +1,7 @@
 #ifndef RAY_TRIANGLE_H
 #define RAY_TRIANGLE_H
 
+#include <stdbool.h>
 #include "structs.h"
 
 void normalize_vertices(TriangleArray* mesh,  Box* box);

@@ -4,7 +4,6 @@
 <img width="1146" height="824" alt="donut" src="https://github.com/user-attachments/assets/1db40f66-678e-4ee0-a29d-991f5df1938d" />
 
 
-
 A simple ASCII 3D renderer written in C that displays rotating 3D models directly in your terminal.
 
 ## Compilation
